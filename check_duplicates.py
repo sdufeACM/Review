@@ -13,6 +13,9 @@ def check_for_duplicates(directory):
     duplicate_files = []
 
     for root, dirs, files in os.walk(directory):
+        if ".git" in dirs:
+            dirs.remove(".git")
+        
         for file in files:
             file_path = os.path.join(root, file)
             md5_hash = calculate_md5(file_path)
