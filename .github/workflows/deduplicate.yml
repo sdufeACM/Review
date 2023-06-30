@@ -1,4 +1,4 @@
-name: Deduplicate Files
+name: Check for File Duplicates
 
 on:
   push:
@@ -6,13 +6,31 @@ on:
       - test
 
 jobs:
-  deduplicate:
+  check_duplicates:
     runs-on: ubuntu-latest
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      
-      - name: Deduplicate files
+
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          
+      - name: Check for Duplicate Files
+        id: check_duplicates
         run: |
-          python deduplicate.py
+          chmod +x ./check_duplicates.py
+          python ./check_duplicates.py
+
+      - name: Set Action Result
+        if: steps.check_duplicates.outputs.has_duplicates == 'true'
+        run: echo "Duplicate files found. The push is invalid."
+        env:
+          ACTION_RESULT: invalid
+
+      - name: Set Output
+        id: action_result
+        if: env.ACTION_RESULT != ''
+        run: echo "::set-output name=result::$ACTION_RESULT"
