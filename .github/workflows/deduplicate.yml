@@ -2,8 +2,9 @@ name: Check for File Duplicates
 
 on:
   push:
-    branches:
-      - test
+  
+  pull_request:
+    types: [opened, reopened]
 
 jobs:
   check_duplicates:
