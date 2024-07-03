@@ -32,6 +32,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://blog.mslxl.com"><img src="https://avatars.githubusercontent.com/u/11132880?v=4?s=100" width="100px;" alt="mslxl"/><br /><sub><b>mslxl</b></sub></a><br /><a href="#content-mslxl" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://blog.myyrh.com"><img src="https://avatars.githubusercontent.com/u/32591223?v=4?s=100" width="100px;" alt="YuRuiH"/><br /><sub><b>YuRuiH</b></sub></a><br /><a href="#content-xia0ne" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Keriyar"><img src="https://avatars.githubusercontent.com/u/129833434?v=4?s=100" width="100px;" alt="Keriyar"/><br /><sub><b>Keriyar</b></sub></a><br /><a href="#content-Keriyar" title="Content">🖋</a></td>
     </tr>
   </tbody>
