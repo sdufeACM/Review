@@ -1,18 +1,74 @@
 ## SDUFE 复习资料
 
-持续收集
+![GitHub repo size](https://img.shields.io/github/repo-size/sdufeACM/Review?label=repo%20size)
+![GitHub last commit](https://img.shields.io/github/last-commit/sdufeACM/Review)
 
-欢迎`pr`
+### 我有最新的资料，如何更新
+
+#### 我会使用 Git 及 GitHub
+如何您会使用 Git 及 GitHub，只需要发起 Pull Request，维护者或社长会在收到通知后进行合并。
+
+如长时间未合并，可联系以下人员：
+- 当前ACM学社社长（QQ群内联系）
+- 发起人 [xia0ne](https://github.com/xia0ne) 
+- 成员 [mslxl](https://github.com/mslxl)
+
+#### 我不会使用  Git 及 GitHub
+
+您可联系相关人员代为上传，或者参考教程:
+
+- [简单明了的Git入门](https://www.bilibili.com/video/BV1Cr4y1J7iQ/)
+
+- [如何给一个开源项目提交代码？Fork、PR一次搞懂！](https://www.bilibili.com/video/BV1Qp4y1T797/)
+
+注：上述教程与 sdufeACM 无任何关系，请不要在教程中发表任何相关内容。双方不对彼此的内容负责。
+
+### 贡献者
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### License
+
+所有资料均为课程发布或传承获取。
+
+如无特殊标注，所有资料均采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 协议。您可以自由的：
+
+- **共享** —— 以任何媒介或格式复制和重新分发材料
+- **改编** —— 修改、转换或以本作品为基础进行创作
+
+您必须：
+
+- **署名** — 您必须给出 [ 适当的署名 ](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans#ref-appropriate-credit) ，提供指向本许可协议的链接，同时 [ 标明是否（对原始作品）作了修改 ](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans#ref-indicate-changes) 。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+
+- **非商业性** —— 您不得将该材料用于商业目的。
+
+同时注意：
+
+您不必因为公共领域的作品要素而遵守许可协议，或者您的使用被可适用的 [ 例外或限制 ](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans#ref-exception-or-limitation) 所允许。
+
+不提供担保。许可协议可能不会给与您意图使用的所必须的所有许可。例如，其他权利比如 [ 形象权、隐私权或人格权 ](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans#ref-publicity-privacy-or-moral-rights) 可能限制您如何使用作品。
 
 
 
+如果您在贡献时希望相关文件采用其他协议，请额外标注。
+
+### 其他
 
 > [!CAUTION]
 > 后人哀之而不鉴之，亦使后人而复哀后人也。
 >
 > —— Mslxl 留于考试前一天 June 24 2024
 
+
 ---
+
 
 > [!NOTE]
 > 现在是……六月十三号晚上的……八点三十六，星期天。
@@ -50,7 +106,4 @@
 > 拜拜
 >
 > [![pCdf08s.png](https://s1.ax1x.com/2023/06/28/pCdf08s.png)](https://imgse.com/i/pCdf08s)
- 
-
-
 
