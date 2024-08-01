@@ -1,0 +1,48 @@
+{
+  "projectName": "Review",
+  "projectOwner": "sdufeACM",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "mslxl",
+      "name": "mslxl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11132880?v=4",
+      "profile": "http://blog.mslxl.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "xia0ne",
+      "name": "YuRuiH",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32591223?v=4",
+      "profile": "http://blog.myyrh.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Keriyar",
+      "name": "Keriyar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129833434?v=4",
+      "profile": "https://github.com/Keriyar",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "LionelMessiYoung10",
+      "name": "LMY",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102243969?v=4",
+      "profile": "https://github.com/LionelMessiYoung10",
+      "contributions": [
+        "content"
+      ]
+    }
+  ]
+}
