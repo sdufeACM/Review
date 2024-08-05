@@ -36,6 +36,7 @@
       <td align="center" valign="top" width="14.28%"><a href="http://blog.myyrh.com"><img src="https://avatars.githubusercontent.com/u/32591223?v=4?s=100" width="100px;" alt="YuRuiH"/><br /><sub><b>YuRuiH</b></sub></a><br /><a href="#content-xia0ne" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.keriyar.cn"><img src="https://avatars.githubusercontent.com/u/129833434?v=4?s=100" width="100px;" alt="Keriyar"/><br /><sub><b>Keriyar</b></sub></a><br /><a href="#content-Keriyar" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/LionelMessiYoung10"><img src="https://avatars.githubusercontent.com/u/102243969?v=4?s=100" width="100px;" alt="LMY"/><br /><sub><b>LMY</b></sub></a><br /><a href="#content-LionelMessiYoung10" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mango-xuan"><img src="https://avatars.githubusercontent.com/u/121227305?v=4?s=100" width="100px;" alt="mangoxuan"/><br /><sub><b>mangoxuan</b></sub></a><br /><a href="#content-mango-xuan" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
